@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Первое приложение</string>
+    <string name="title">Хочешь рассчитать ипотеку под себя?</string>
+    <string name="title_ans">Идеальные условия ипотеки для вас:</string>
+    <string name="press_to_start">Нажмите, чтобы начать</string>
+    <string name="name">Введите ваше имя</string>
+    <string name="age">Введите ваш возраст</string>
+    <string name="height">Введите ваш рост</string>
+    <string name="weight">Введите ваш вес</string>
+    <string name="enter_data">Ввести данные</string>
+    <string name="name_exception">Пожалуйста, введите ваше имя корректно!</string>
+    <string name="age_exception">Пожалуйста, введите ваш возраст корректно!</string>
+    <string name="height_exception">Пожалуйста, введите ваш рост корректно!</string>
+    <string name="weight_exception">Пожалуйста, введите ваш вес корректно!</string>
+    <string name="anger_symbol">NANI?!</string>
+    <string name="amount">Сумма ипотеки:</string>
+    <string name="percent">Процентная ставка:</string>
+</resources>

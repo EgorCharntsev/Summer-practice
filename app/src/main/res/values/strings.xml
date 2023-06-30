@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FirstApplication</string>
+    <string name="title">Do you want to calculate the mortgage for yourself?</string>
+    <string name="title_ans">Ideal mortgage conditions for you:</string>
+    <string name="press_to_start">Press to start</string>
+    <string name="name">Enter your name</string>
+    <string name="age">Enter your age</string>
+    <string name="height">Enter your height</string>
+    <string name="weight">Enter your weight</string>
+    <string name="enter_data">Enter data</string>
+    <string name="name_exception">Please enter your name correctly!</string>
+    <string name="age_exception">Please enter your age correctly!</string>
+    <string name="height_exception">Please enter your height correctly!</string>
+    <string name="weight_exception">Please enter your weight correctly!</string>
+    <string name="anger_symbol">NANI?!</string>
+    <string name="amount">Mortgage amount:</string>
+    <string name="percent">Interest rate:</string>
+
+</resources>
